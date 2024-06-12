@@ -2,6 +2,8 @@
 
 NetPractice is a network simulation and practice tool designed to help users learn and practice network configurations, protocols, and troubleshooting techniques. Whether you are a beginner or an experienced network engineer, NetPractice provides a hands-on environment to enhance your networking skills.
 
+![NetPractice Screenshot](https://miro.medium.com/v2/resize:fit:1200/1*bPW69syx4qbQ6l2heZ38SA.png)
+
 ## Features
 
 - **Network Simulation**: Create and simulate complex network topologies and configurations.
@@ -24,8 +26,4 @@ NetPractice is licensed under the MIT License. Feel free to use, modify, and dis
 
 ## Contact
 
-For any questions, feedback, or support, please contact us at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Thank you for using NetPractice! We hope it helps you enhance your networking skills.
+For any questions, feedback, or
